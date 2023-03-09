@@ -1948,3 +1948,7 @@ vendors:
   - id: fludia
     name: Fludia
     website: https://www.fludia.com/
+
+  - id: senxiot
+    name: Senxiot
+    website: http://www.senxiot.com/en/
